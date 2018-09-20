@@ -7,6 +7,7 @@
 ### 2. An Angular app is defined by a set of NgModules. 
 ### 3. An app always has at least a root module that enables bootstrapping, and typically has many more feature modules.
 
+---
 
 ### 1. Each component defines a class that contains application data
 ### 2. and.... application logic
