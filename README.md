@@ -10,11 +10,12 @@
 ---
 
 
-1. Each component defines a class that contains application data
-..* What does this mean?
-..* Well, first of all... A component controls a patch of screen called a view. 
+1. Each component defines a class that contains application data.
+ - What does this mean?
+ - Well, first of all... A component controls a patch of screen called a view. 
 2. and.... application logic
 3. and.... is associated with an HTML template that defines a view to be displayed in a target environment
+
 *source:* [angular.io](https://angular.io/guide/architecture)
 
 
